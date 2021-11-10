@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/sql/V1__Create_fraction_table.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V2__New_fraction_tables.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V3__insert_data.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V4__new_view.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V5__view_two.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V6__request_with_cte.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V7__request_cte_two.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V8__join_types.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/V9__materialized_view.sql" dialect="GenericSQL" />
+  </component>
+</project>
